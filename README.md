@@ -1,6 +1,7 @@
 ### Hi there! 👋
 
-My name is Santiago Hayase.
+My name is Santiago Hayase and I'm a Full Stack Developer. 
+
 
 <!--
 **Intervention2/Intervention2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
