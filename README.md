@@ -1,7 +1,12 @@
 ### Hi there! 👋
 
 My name is Santiago Hayase and I'm a Full Stack Developer. 
+I'm passionate about programming and looking for new challenges that will help me grow professionally. I also love ✨ videogames ✨ and it might be the main reason why I started studying. 
 
+### Contact me! 📫
+
+Email: santiagohayase@gmail.com
+Linkedin: https://www.linkedin.com/in/santiagohayase/
 
 <!--
 **Intervention2/Intervention2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
